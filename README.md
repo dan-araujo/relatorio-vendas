@@ -1,4 +1,4 @@
-# 📊 Relatório Gerencial de Vendas – Power BI
+# 📊 Relatório Gerencial de Vendas 
 
 Este repositório contém o dashboard **Relatório Gerencial de Vendas**, desenvolvido em **Power BI**, com foco em acompanhamento de resultados comerciais e lucratividade por período, segmento, produto e país.
 
